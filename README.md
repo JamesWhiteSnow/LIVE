@@ -52,7 +52,7 @@ make
 |:----:|:----:|:----:|
 |-d|../Dataset/|Dataset Path|
 |-q|../Dataset/query_graph.graph|Query Graph Path|
-|-a||1000|Alpha Value|
+|-a|1000|Alpha Value|
 |-b|0.01|Beta Value|
 |-e|2|Embedding Dimension|
 |-k|2|Hop Number|
